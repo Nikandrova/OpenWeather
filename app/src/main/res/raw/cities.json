@@ -1,0 +1,47 @@
+[
+  {
+    "id": 840947,
+    "name": "Znamenskiy",
+    "country": "RU",
+    "coord": {
+      "lon": 39.149723,
+      "lat": 45.055557
+    }
+  },
+  {
+    "id": 487846,
+    "name": "Stavropol",
+    "country": "RU",
+    "coord": {
+      "lon": 41.973331,
+      "lat": 45.042778
+    }
+  },
+  {
+    "id": 542420,
+    "name": "Krasnodar",
+    "country": "RU",
+    "coord": {
+      "lon": 38.976944,
+      "lat": 45.03278
+    }
+  },
+  {
+    "id": 524901,
+    "name": "Moscow",
+    "country": "RU",
+    "coord": {
+      "lon": 37.615555,
+      "lat": 55.75222
+    }
+  },
+  {
+    "id": 501175,
+    "name": "Rostov-na-Donu",
+    "country": "RU",
+    "coord": {
+      "lon": 39.71389,
+      "lat": 47.236389
+    }
+  }
+]
